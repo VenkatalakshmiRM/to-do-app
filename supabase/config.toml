@@ -1,0 +1,5 @@
+project_id = "campus-to-do"
+
+[auth]
+site_url = "com.venkatalakshmi.campustodo://auth-callback"
+additional_redirect_urls = ["com.venkatalakshmi.campustodo://auth-callback"]
